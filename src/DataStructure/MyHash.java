@@ -1,3 +1,5 @@
+package DataStructure;
+
 public class MyHash {
     public Slot[] hashTable;
 
@@ -16,7 +18,7 @@ public class MyHash {
         return (int)(key.charAt(0)) % this.hashTable.length;
     }
 
-    public boolean saveData(String key, String value){
+    public void saveData(String key, String value){
         Integer address = this.hashFunc(key);
         if(this.hashTable[address] != null){
             this.hashTable[address].value = value;

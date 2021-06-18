@@ -1,3 +1,5 @@
+package DataStructure;
+
 public class DoubleLinkedList<T> {
     public Node<T> head = null;
     public Node<T> tail = null;
@@ -8,7 +10,7 @@ public class DoubleLinkedList<T> {
         Node<T> next = null;
 
         public Node(T data){
-            this.data = data
+            this.data = data;
         }
     }
 
@@ -92,9 +94,9 @@ public class DoubleLinkedList<T> {
                     nodePrev.next.prev = nodePrev;
                     node.prev = nodePrev.next;
                     return true;
+                }else{
+                    node = node.next;
                 }
-            }else{
-                node = node.next;
             }
             return false;
         }

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fe595-9513-4147-83c9-02f30135679f" name="Default Changelist" comment="first commit" />
+    <list default="true" id="0b9fe595-9513-4147-83c9-02f30135679f" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/MyHashChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/MyHashLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/NodeMgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/GymClothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/IdRecommendation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Jusik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/App/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/App/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/MyHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/SingleLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +49,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1sRFf10bEYdkxYhNa9vYmS991mw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,41 +68,79 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.MyStack">
-    <configuration name="Jeyoung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jeyoung" />
+  <component name="RunManager" selected="Application.solution1">
+    <configuration name="Jusik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Jusik" />
       <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyQueue" />
+    <configuration name="solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.solution1" />
       <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyStack" />
+    <configuration name="solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.solution2" />
       <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="out" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="out" />
+    <configuration name="solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.solution3" />
       <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.solution4" />
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyStack" />
-        <item itemvalue="Application.MyQueue" />
-        <item itemvalue="Application.out" />
-        <item itemvalue="Application.Jeyoung" />
+        <item itemvalue="Application.solution1" />
+        <item itemvalue="Application.solution4" />
+        <item itemvalue="Application.solution3" />
+        <item itemvalue="Application.solution2" />
+        <item itemvalue="Application.Jusik" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +161,17 @@
       <workItem from="1621510649624" duration="3109000" />
       <workItem from="1622116410698" duration="1946000" />
       <workItem from="1622119292227" duration="2614000" />
+      <workItem from="1622291867148" duration="4736000" />
+      <workItem from="1622883432756" duration="1157000" />
+      <workItem from="1623066626294" duration="127000" />
+      <workItem from="1623066987259" duration="2817000" />
+      <workItem from="1623412965335" duration="8150000" />
+      <workItem from="1623504686041" duration="3752000" />
+      <workItem from="1623670972961" duration="6458000" />
+      <workItem from="1623755831322" duration="5365000" />
+      <workItem from="1623843422353" duration="13000" />
+      <workItem from="1623927233340" duration="9912000" />
+      <workItem from="1624016555825" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1622117242925</created>
@@ -199,22 +272,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="829" y="413" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1622117583753" />
-    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1621353848768">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1621353848768" />
-    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1621353848768">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190231" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1621353848768" />
-    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1621353848768">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190231" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1623937945179">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1621353848768" />
-    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1621353848768">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190231" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945179" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1621353848768" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190231" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190334" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190334" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190334" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1623937945180">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623935190334" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623937945180" />
     <state x="619" y="217" key="NewModule_or_Project.wizard" timestamp="1622117979379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,5 +332,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="130" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1622118353876" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1622296041079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1622296041079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/Jusik.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/solution2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/solution4.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/solution1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
